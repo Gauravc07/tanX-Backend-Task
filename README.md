@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Gauravc07/tanX_backend.git
+git clone https://github.com/Gauravc07/tanX-Backend-Task.git
 cd tanX_backend
 ```
 
