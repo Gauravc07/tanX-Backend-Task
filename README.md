@@ -27,6 +27,8 @@ cd tanX_backend
 
     ```bash
     docker build -t tanx-backend .
+    or
+    docker-compose up -d --build
     ```
 
 2. **Run the Docker Container**
@@ -74,14 +76,7 @@ tanX_backend/
 
 ## API Endpoints
 
-Describe your API endpoints here.
 
-- **GET /api/resource**: Description of this endpoint.
-- **POST /api/resource**: Description of this endpoint.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 
 ## Contact
@@ -90,5 +85,3 @@ Gaurav Chindhe - [gaurav.thakabhau2021@vitstudent.ac.in](mailto:gaurav.thakabhau
 
 
 ```
-
-Feel free to modify the sections to better fit your project's specifics, such as the API endpoints and other relevant details.
