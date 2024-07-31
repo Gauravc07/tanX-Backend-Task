@@ -76,7 +76,7 @@ tanX_backend/
 
 ## API Endpoints
 
-
+Gist link for accessing endpoint : https://gist.github.com/Gauravc07/86ce1e8531b4f3e5a0ad148575b25eb3
 
 
 ## Contact
